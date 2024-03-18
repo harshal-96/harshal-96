@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, my name is Harshal Dhandrut
+#### I am a ML Engineer 
+![I am a ML Engineer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**harshal-96/harshal-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Machine Learning Engineer with a passion for solving real-world problems using data-driven approaches. While my journey started in Mechanical Engineering, my curiosity led me to explore the fascinating world of machine learning and deep learning. Throughout my career, I've had the privilege of working in supply chain operations and new product introduction, where I've learned the importance of optimization and efficiency.
 
-Here are some ideas to get you started:
+Skills: 
+Machine Learning Frameworks: TensorFlow, PyTorch, MLflow, DVC 
+Data Manipulation: NumPy, Pandas Data Visualization: Matplotlib, Plotly, Tableau, Power BI 
+Programming Languages: Python, SQL CI/CD Tools: Git, Docker, Jenkins 
+Cloud Services: AWS (EC2, S3, Sagemaker) 
+Big Data Tools: Kafka, Spark 
+Web Development: Django, Flask Database Management: PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
